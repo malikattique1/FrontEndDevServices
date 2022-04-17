@@ -1,0 +1,41 @@
+.button-white{
+    padding: 10px;
+    background-color: #ffffff;
+    color: #232b6f;
+    border-radius: 30px;
+    font-weight: bold;
+    outline: none;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.button-white:hover{
+    background-color: #232b6f;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+
+.button-transparent{
+    margin: 0 20px;
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid white;
+}
+
+.button-purple{
+    padding: 10px;
+    background-color: transparent;
+    color: #232b6f;
+    border-radius: 30px;
+    font-weight: bold;
+    outline: none;
+    border: 1px solid #232b6f;
+    width: 200px;
+}
+
+.button-transparent:hover{
+    background-color: #ffffff;
+    color: #232b6f;
+    transition: all .5 ease-in;
+}
